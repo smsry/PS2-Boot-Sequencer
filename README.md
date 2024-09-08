@@ -8,7 +8,7 @@ Usually SCPH-900xx PS2 Slim models are not capable of booting directly into Free
 
 This has to be done each and every single time the PS2 is turned on and if you're like me who uses VGA Monitors and Dualshock 3 Controllers to use the PS2, then you would know it gets very annoying to turn the PS2 on.
 
-To solve this, I made a Sequencer from an Arduino nano which uses an IR LED and the PS2's inbuilt IR receiver to send buttonpress codes to the PS2 to turn the PS2 ON.
+To solve this, I made a Sequencer from an Arduino nano which uses an IR LED and the PS2's inbuilt IR receiver to send buttonpress codes to the PS2 to turn the PS2 ON and get into the FreeMCBoot menu.
 
 The IR Sequence my code follows when the "NEW" Power button is pressed is:
 
