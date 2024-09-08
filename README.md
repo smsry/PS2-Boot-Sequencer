@@ -20,7 +20,7 @@ The IR Sequence my code follows when the "NEW" Power button is pressed is:
 - Wait 1 second
 - Press Circle twice
 
-This allows the PS2 to load into the FreeMCBoot menu.
+This allows the PS2 to launch the exploit and load into the FreeMCBoot menu.
 
 The Arduino circuit itself is very simple. its a push button and an infrared emitter LED connected to the digital pins of the Arduino. 
 
