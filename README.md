@@ -4,6 +4,9 @@
   <img width="400" height="300" src="https://github.com/smsry/PS2-Boot-Sequencer/blob/main/Images/1.jpg">
 </p>
 
+[Video Demo of it working](https://www.youtube.com/watch?v=Kwv18K0fvgY)
+
+
 Usually SCPH-900xx PS2 Slim models are not capable of booting directly into FreeMCBoot and are needed to do a sequence of button presses in the PS2 Browser to enter the FreeMCBoot menu.
 
 This has to be done each and every single time the PS2 is turned on and if you're like me who uses VGA Monitors and Dualshock 3 Controllers to use the PS2, then you would know it gets very annoying to turn the PS2 on.
